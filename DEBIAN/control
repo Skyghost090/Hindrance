@@ -1,0 +1,6 @@
+Package: Hindrance
+Version: 1.2172024
+Section: utils
+Architecture: all
+Maintainer: SkyGhost <klebinhop1244@gmail.com>
+Description: Package for lock webcam

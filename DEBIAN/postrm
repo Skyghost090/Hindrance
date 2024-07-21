@@ -1,0 +1,2 @@
+#!/bin/bash
+sed -i 's/blacklist uvcvideo/ /g' /etc/modprobe.d/blacklist.conf
